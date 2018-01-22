@@ -18,7 +18,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 
         <app.build.name>lib</app.build.name>
-        <app.build.revision>initial</app.build.revision>
+        <app.build.revision>e101dff</app.build.revision>
         <app.build.version>0.1</app.build.version>
         <app.build.directory>${project.build.outputDirectory}/../../../${app.build.name}</app.build.directory>
 
